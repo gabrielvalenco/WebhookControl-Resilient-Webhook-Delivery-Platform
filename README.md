@@ -32,7 +32,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/webhookcontrol.git
+git clone https://github.com/gabrielvalenco/webhookcontrol.git
 cd webhookcontrol
 composer install
 cp .env.example .env
